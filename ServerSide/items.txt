@@ -1,0 +1,5 @@
+Ferrari;Sporty & Speedy;600000;50000;140
+Lamborghini;Sleek & Cool;950000;40000;100
+Toyota;Perfect for your family;40000;10000;100
+Honda;Durable & Reliable;35000;10000;200
+Private Jet;For all you celebrities out there;9999999;1000000;120

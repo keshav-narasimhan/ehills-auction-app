@@ -1,0 +1,100 @@
+
+
+****************************************
+Auction started at 2021-12-02T22:52:57.627Z
+****************************************
+hello logged in!
+hello bid for Private Jet with a bid of $9999998.0
+hello bid for Toyota with a bid of $20000.0
+Guest 1 logged in!
+Guest 1 has bought Ferrari with a bid of $600000.0
+Guest 2 logged in!
+Guest 2's bid of $2000.0 for Honda was too low
+Guest 2 bid for Honda with a bid of $20000.0
+Guest 2 logged out!
+Guest 1 logged out!
+hello logged out!
+
+
+****************************************
+Auction started at 2021-12-02T23:01:00.339Z
+****************************************
+keshav logged in!
+keshav has bought Toyota with a bid of $40000.0
+keshav bid for Lamborghini with a bid of $700000.0
+Keshav logged in!
+Keshav's bid of $123.0 for Private Jet was too low
+Keshav bid for Private Jet with a bid of $1230000.0
+keshav's bid of $1229999.0 for Private Jet was too low
+Keshav logged out!
+keshav logged out!
+Guest 1 logged in!
+Guest 1 logged out!
+
+
+****************************************
+Auction started at 2021-12-03T00:15:00.388Z
+****************************************
+Guest 1 logged in!
+Guest 1 has bought Honda with a bid of $35000.0
+keshav logged in!
+keshav bid for Toyota with a bid of $37000.0
+Guest 1 has bought Toyota with a bid of $40000.0
+keshav bid for Lamborghini with a bid of $95999.0
+Guest 1 has bought Lamborghini with a bid of $950000.0
+Guest 1 logged out!
+keshav logged out!
+
+
+****************************************
+Auction started at 2021-12-03T00:19:37.018Z
+****************************************
+keshav logged in!
+keshav bid for Lamborghini with a bid of $41200.0
+Guest 1 logged in!
+Guest 1 bid for Lamborghini with a bid of $42000.0
+keshav's bid of $4300.0 for Lamborghini was too low
+keshav bid for Lamborghini with a bid of $43000.0
+Guest 1 bid for Ferrari with a bid of $51000.0
+Keshav logged in!
+Keshav bid for Toyota with a bid of $12000.0
+Guest 1 bid for Toyota with a bid of $12500.0
+Keshav bid for Toyota with a bid of $35000.0
+Keshav's bid of $9000.0 for Honda was too low
+Guest 1 bid for Honda with a bid of $12000.0
+keshav logged out!
+Keshav logged out!
+Guest 1 logged out!
+
+
+****************************************
+Auction started at 2021-12-07T17:21:54.668Z
+****************************************
+keshav logged in!
+keshav bid for Lamborghini with a bid of $47000.0
+keshav bid for Ferrari with a bid of $450000.45
+keshav logged out!
+keshav logged in!
+keshav logged out!
+
+
+****************************************
+Auction started at 2022-11-30T02:17:01.853Z
+****************************************
+
+
+****************************************
+Auction started at 2022-11-30T02:17:59.979Z
+****************************************
+Guest 1 logged in!
+Guest 1 bid for Ferrari with a bid of $550000.0
+Guest 2 logged in!
+Guest 2's bid of $999999.0 for Private Jet was too low
+Guest 2 has bought Private Jet with a bid of $9999999.0
+Guest 2 logged out!
+Guest 3 logged in!
+
+
+****************************************
+Auction started at 2022-11-30T04:13:35.986Z
+****************************************
